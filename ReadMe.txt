@@ -1,26 +1,26 @@
-Mouse Escape Game
+# Mouse Escape Game
 
-A fast-paced 2D arcade rescue and survival game built with HTML5 Canvas and JavaScript.
+A 2D survival game built with HTML5 Canvas and JavaScript.
 
-Description
+# Description
 
-Mouse Escape Game is a browser-based 2D survival arcade game where players guide a mouse through a dangerous arena to reach the safe house exit. To win each round, the player must collect a randomly spawning golden key—which unlocks the exit door and grants 5 seconds of bonus time—while avoiding four patrolling cats and dodging projectiles fired by wall-mounted turrets that actively track the player's position. The game features a 20-second countdown timer, three difficulty levels (Easy, Medium, Hard), customizable mouse colors and arena themes (Light/Night), synthesized sound effects via the Web Audio API, and persistent high-score tracking using `localStorage`.
+Mouse Escape is a simple 2D arcade game where you control a mouse trying to escape to the safe door before the 20-second timer runs out. You have to grab the golden key first to unlock the door and get +5 extra seconds, while avoiding 4 moving cats and dodging bullets from 2 turrets that aim at you. You can also change the difficulty level (Easy, Medium, Hard), pick your mouse color, switch between Light and Night themes, and control the game sound.
 
-Screenshots
+# Screenshots
 
-[Mouse Escape Gameplay](Screenshot 2026-11-22 133036.png)
+![Mouse Escape Gameplay](screenshot.png)
 
-(Play the live version directly at: [https://mayr1425031-jpg.github.io/Mouse-Escape/](https:mayr1425031-jpg.github.ioMouse-Escape))
+Play the game online here: https://mayr1425031-jpg.github.io/Mouse-Escape/
 
-Getting Started
+ Getting Started
 
-Dependencies
+# Dependencies
 
-Any modern web browser with HTML5 Canvas and ES6 JavaScript support (Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari).
-Works on Windows, macOS, and Linux — no external libraries, frameworks, or installations required.
+ - A web browser (Chrome, Edge, Firefox, or Safari).
+ - No extra libraries or installations needed.
 
-Installing
+ Installing
 
-Clone the repository or download the project files directly from GitHub:
+# Download the files or clone the repo:
 bash
 git clone [https://github.com/mayr1425031-jpg/Mouse-Escape.git](https://github.com/mayr1425031-jpg/Mouse-Escape.git)
