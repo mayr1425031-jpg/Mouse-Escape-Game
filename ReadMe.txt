@@ -8,7 +8,7 @@ Mouse Escape is a simple 2D arcade game where you control a mouse trying to esca
 
 # Screenshots
 
-![Mouse Escape Gameplay](screenshot.png)
+![Mouse Escape Gameplay](Screenshot.png)
 
 Play the game online here: https://mayr1425031-jpg.github.io/Mouse-Escape/
 
